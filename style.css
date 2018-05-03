@@ -1,0 +1,55 @@
+html {
+	background-color: white;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#add-row {
+	background-color: blue;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#unordered-list {
+	padding: 0px;
+}
+
+#new-button {
+	background-color: white;
+	border: none;
+	color: black;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#key-output {
+	background-color: gray;
+	border: none;
+	color: white;
+	padding: 5px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#value-output {
+	background-color: gray;
+	border: none;
+	color: white;
+	padding: 5px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
